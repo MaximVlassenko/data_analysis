@@ -5,3 +5,32 @@
 #### 1. Analyze TV sales in general.
 #### 2. Understand whether the advertising campaign had an impact on sales and analyze how much, if so.
 #### There are two data sets: TV_Data.xlsx - it stores TV sales data and tv_adv - it contains advertising campaign indicators.
+
+### File "TV_Sale.xlsx". Description of the data structure.
+#### Point of sale - the city where the store is located
+#### Day - sale day
+#### Month - sale month
+#### Year - year of sale
+#### Date - sale date
+#### Nomenclature - item number
+#### Channel - B2B, retail store, online store
+#### Credit - goods purchased on credit or for cash
+#### Brand - TV brand
+#### Price - TV price
+#### Margin - received margin
+#### Qty - number of TVs sold
+
+### File "tv_adv.csv". Description of the data structure.
+#### Day - day
+#### Currency - currency type
+#### Clicks - number of clicks
+#### Impression - number of ad impressions
+#### CTR - conversion of impressions into clicks
+#### Avg CPC - average cost per click
+#### Costs - campaign budget
+#### % in the top position - percentage of impressions at the very top
+#### % imp/ in the top position - percentage of impressions at the top
+#### Conversions - conversions
+#### View-through conversions - View-through conversions
+#### Cost/Conversions - cost per conversion
+#### Conversion Rate - conversion rate
