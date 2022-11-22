@@ -31,5 +31,6 @@
 #### % in the top position - percentage of impressions at the very top
 #### % imp/ in the top position - percentage of impressions at the top
 #### Conversions - conversions
+#### View-through conversions - View-through conversions
 #### Cost/Conversions - cost per conversion
 #### Conversion Rate - conversion rate
